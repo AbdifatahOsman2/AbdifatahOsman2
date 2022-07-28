@@ -1,66 +1,13 @@
-### Hello World... 🌍
-
-My name is Abdifatah Osman,I am a full stack developer passionate about creating unique web experiences. I love seeing code come to life while solving complex problems.A long-term goal of mine is to utilize my web development skills to create games that people will love to play.
-
-<!-- Contact Me -->
-<div>
-    <a target="_blank" href="https://triplebyte.com/tb/abdifatahosman2-bofp3sp">
-    <img src="https://avatars.githubusercontent.com/u/12144133?s=200&v=4" width=24px alt="Triplebyte"></a>
-    <a target="_blank" href="https://www.linkedin.com/in/abdifatahothman/"><img src="icons/contact/linkedin-original.svg" width=24px alt="LinkedIn"></a>
-</div>
-<!-- Languages -->
-<div>
-    <h3>⇒ Languages </h3>
-    <a target="_blank" href="">
-        <img src="icons/html5-original.svg" width=36px alt="HTML5">
-    </a>
-    <a target="_blank" href="">
-        <img src="icons/css3-original.svg" width=36px alt="CSS3">
-    </a>
-    <a target="_blank" href="">
-        <img src="icons/javascript-original.svg" width=36px alt="Javascript">
-    </a>
-    <a target="_blank" href="">
-        <img src="icons/python-original.svg" width=36px alt="Python">
-    </a>
-        <a target="_blank" href="">
-        <img src="icons/cdnlogo.com_c.svg" width=36px alt="Firebase">
-    </a>
-
-</div>
-<!-- Frameworks -->
-<div>
-    <h3>⇒ Frameworks / Libraries / Technologies</h3>
-    <a target="_blank" href="https://www.postgresql.org/docs/current/">
-        <img src="icons/postgresql-original-wordmark.svg" width=45px alt="PostgreSQL">
-    </a>
-    <a target="_blank" href="https://sass-lang.com/documentation">
-        <img src="icons/sass-original.svg" width=45px alt="Sass">
-    </a>
-    <a target="_blank" href="https://docs.mongodb.com">
-        <img src="icons/mongodb-original-wordmark.svg" width=45px alt="MongoDB">
-    </a>
-    <a target="_blank" href="https://reactjs.org/docs/getting-started.html">
-        <img src="icons/react-original.svg" width=45px alt="ReactJS">
-    </a>
-    <a target="_blank" href="https://nodejs.org/en/docs/">
-        <img src="icons/nodejs-original.svg" width=45px alt="Node.JS">
-    </a>
-    <a target="_blank" href="https://expressjs.com/en/4x/api.html">
-        <img src="icons/express-original-wordmark.svg" width=45px alt="ExpressJS">
-    </a> 
-    <a target="_blank" href="https://flask.palletsprojects.com/en/2.0.x/">
-        <img src="icons/flask-original.svg" width=45px alt="Flask">
-    </a>
-    <a target="_blank" href="https://firebase.google.com/docs">
-        <img src="icons/firebase-plain.svg" width=45px alt="Firebase">
-    </a>
-        <a target="_blank" href="">
-        <img src="icons/heroku-ar21.svg" width=80px alt="Heroku">
-    </a>
-    <a target="_blank" href="">
-        <img src="icons/unity-69.svg" width=40px alt="Firebase">
-    </a>
+# 💫 About Me:
+I am a full-stack developer passionate about creating unique web experiences.<br> I love seeing code come to life while solving complex problems. A long-term goal of mine is to utilize my web development skills to create games that people will love to play.
 
 
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdifatah Othman) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AbdifatahOsman2&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbdifatahOsman2&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdifatahOsman2&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
