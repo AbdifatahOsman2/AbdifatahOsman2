@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨🏿‍💻 About Me:
 I am a full-stack developer passionate about creating unique web experiences.<br>I love seeing code come to life while solving complex problems. A long-term goal of mine is to utilize my web development skills to create games that people will love to play.
 
 
