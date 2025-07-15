@@ -1,5 +1,16 @@
-# 👨🏿‍💻 About Me:
-I am a full-stack developer passionate about creating unique web experiences.<br>I love seeing code come to life while solving complex problems. A long-term goal of mine is to utilize my web development skills to create games that people will love to play.
+# 👨🏿‍💻 About Me
+I’m a Full-Stack Developer focused on building meaningful, user-centric web and mobile applications. My experience spans across education, Islamic learning, healthcare, and infrastructure automation. I enjoy turning complex problems into simple, intuitive solutions using modern technologies.
+
+Currently, I’m developing mobile and web apps using **React Native**, **Firebase**, and **TypeScript**, while building DevOps tooling with **Terraform**, **Ansible**, and **KVM**. I’m also exploring low-level programming and embedded systems (C, RTOS, DO-178C) with a long-term goal of working in aerospace and avionics engineering.
+
+---
+
+## 🚀 Featured Projects
+- **📱 Markaz Al-Najaax** – A React Native app for Islamic schools to streamline student tracking, behavior monitoring, and parent communication.
+- **📖 TafseerAI** – AI-assisted Quranic tafsir reader app designed for accessibility and clarity, using Firebase and natural language tools.
+- **🛠 DevOps Projects** – Infrastructure-as-code experiments with Terraform and Ansible to replicate cloud environments locally using KVM.
+
+---
 
 
 ## 🌐 Socials:
